@@ -20,6 +20,7 @@ Therefore, we can jointly predict which player it belongs to by using the length
 I pick Decision Tree as the Classifier.
 
 Split 20% for testing set, 80% for training set. Dataset will be shuffle.
+
 feature: Play =============-> predict: Player
 acc: 0.22043649850221103
 
